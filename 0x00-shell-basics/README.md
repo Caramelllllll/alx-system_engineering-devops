@@ -1,2 +1,2 @@
-#!/bin/bash
-a script describing absolute pathname
+# Shell Basics 
+tasks All set and done
