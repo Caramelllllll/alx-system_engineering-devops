@@ -1,1 +1,2 @@
-Shell Basic exercises
+#!/bin/bash
+a script describing absolute pathname
