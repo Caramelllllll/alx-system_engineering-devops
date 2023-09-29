@@ -1,2 +1,1 @@
-# Shell Basics 
-tasks All set and done
+alx shell basics
